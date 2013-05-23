@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>PhoneGap Demo</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        An example of using PhoneGap with jQuery and Twitter
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://donaldheppner.com" email="donald.heppner@gmail.com">
+        Donald Heppner
     </author>
 
     <!--
